@@ -1,0 +1,33 @@
+{
+  "name": "nath_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Donacien",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.2",
+    "cloudinary": "^1.29.0",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.6.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.4.2",
+    "formidable": "^2.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.3",
+    "multer": "^1.4.4",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "unirest": "^0.6.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "description": "Nath Api"
+}
